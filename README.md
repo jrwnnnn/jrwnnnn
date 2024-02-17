@@ -1,7 +1,4 @@
-{\__/}
-( •.•)
-/ >💣>
-
+:)
 - Hi, I'm Mark Jerwin.
 - You can call me Jerwin.
 - My pronouns are he/him. (I guess this is important nowadays)
