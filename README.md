@@ -1,8 +1,17 @@
-:)
-- Hi, I'm Mark Jerwin.
-- You can call me Jerwin.
-- My pronouns are he/him. (I guess this is important nowadays)
-- Can speak and undestrand filipino and english.
-- I'm a beginner programmer.
-- I know the basics of Java and Python.
-- Currently learning HTML and JavaScript.
+# :)
+
+# Hi there, I'm Jerwin! 👋
+
+🌱 Currently learning HTML and JavaScript.
+
+👦 My pronouns are he/im. (I guess these are important nowadays.)
+
+📫 You can reach me at [jrwn.xyz@gmail.com](mailto:jrwn.xyz@gmail.com).
+
+## Skills
+I can speak...
+- Java
+- Python
+- HTML
+- JavaScript
+
