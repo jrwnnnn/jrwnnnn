@@ -1,14 +1,11 @@
-Hello World! I'm Jerwin! 👋
+:)
+### Hello World! I'm Jerwin!
 
-🌱 Currently learning HTML and JavaScript.
+- An IT student.
+- Currently learning HTML and JavaScript.
+- My pronouns are he/im. (I guess these are important nowadays.)
+- I can speak JAVA, Python, HTML, CSS, and JavaScript.
+- You can reach me at [jrwn.xyz@gmail.com](mailto:jrwn.xyz@gmail.com).
 
-👦 My pronouns are he/im. (I guess these are important nowadays.)
 
-📫 You can reach me at [jrwn.xyz@gmail.com](mailto:jrwn.xyz@gmail.com).
-
-🗣  I can speak...
-- Java
-- Python
-- HTML
-- JavaScript
 
