@@ -7,8 +7,8 @@ Hello World! I'm Jerwin! 👋
 📫 You can reach me at [jrwn.xyz@gmail.com](mailto:jrwn.xyz@gmail.com).
 
 🗣  I can speak...
-    - Java
-    - Python
-    - HTML
-    - JavaScript
+- Java
+- Python
+- HTML
+- JavaScript
 
