@@ -2,7 +2,7 @@
 
 <br>
 
-Ni Howdy, Jerwin here! I'm a student based in <strong>Manila, PH</strong>. I build things for the <strong>web</strong>. My code is held together by duct tape and prayers. pls send help. I spend more time customizing my VS Code than actually coding. If you see a bug, no you didn't. web: <a href="https://jrwnnnn.me">jrwnnnn.me</a> <img src="smol/hornet.webp" height="20px" align="center"/>
+Ni Howdy, Jerwin here! I'm a student based in <strong>Manila, PH</strong>. I build things for the <strong>web</strong>. My code is held together by duct tape and prayers. pls send help. I spend more time customizing my VS Code than actually coding. If you see a bug, no you didn't. web: <a href="https://jrwnnnn.me" target="_blank">jrwnnnn.me</a> <img src="smol/hornet.webp" height="20px" align="center"/>
 
 <div>
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
